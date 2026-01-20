@@ -21,10 +21,10 @@ Welcome! This repository is a collection of my data science projects, showcasing
 * **[Tsunami Trigger Prediction](./My-Data-Science-Portfolio/Tsunami-Forecasting)** Predicting tsunami occurrences based on global seismic data (magnitude, depth, intensity).  
   * **Top Model:** XGBoost | **Accuracy:** 92.99% | **F1-Score:** 91.73%
 
-* **[Rainfall Prediction (Classifier)](./Weather-Modeling/)** Predicting if it will rain tomorrow in Australia.  
+* **[Rainfall Prediction (Classifier)](./My-Data-Science-Portfolio/Weather-Modeling)** Predicting if it will rain tomorrow in Australia.  
   * **Top Model:** Random Forest | **Accuracy:** 100.0% | **Precision:** 100%
 
-* **[Weather Risk Analysis (Regressor)](./Weather-Modeling/)** Regression-based analysis of weather risk metrics and temperature variations.
+* **[Weather Risk Analysis (Regressor)](.My-Data-Science-Portfolio/Weather-Modeling)** Regression-based analysis of weather risk metrics and temperature variations.
 
 ### 💰 Finance & Business
 * **[Loan Data & Risk Analysis](./My-Data-Science-Portfolio/Loan-Regression-Analysis)** Predicting financial risk and loan repayment status.  
