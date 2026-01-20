@@ -24,7 +24,7 @@ Welcome! This repository is a collection of my data science projects, showcasing
 * **[Rainfall Prediction (Classifier)](./My-Data-Science-Portfolio/Weather-Modeling)** Predicting if it will rain tomorrow in Australia.  
   * **Top Model:** Random Forest | **Accuracy:** 100.0% | **Precision:** 100%
 
-* **[Weather Risk Analysis (Regressor)](.My-Data-Science-Portfolio/Weather-Modeling)** Regression-based analysis of weather risk metrics and temperature variations.
+* **[Weather Risk Analysis (Regressor)](./My-Data-Science-Portfolio/Weather-Modeling/weather(regressor).ipynb)** Regression-based analysis of weather risk metrics and temperature variations.
 
 ### 💰 Finance & Business
 * **[Loan Data & Risk Analysis](./My-Data-Science-Portfolio/Loan-Regression-Analysis)** Predicting financial risk and loan repayment status.  
