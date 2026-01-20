@@ -27,7 +27,7 @@ Welcome! This repository is a collection of my data science projects, showcasing
 * **[Weather Risk Analysis (Regressor)](./Weather-Modeling/)** Regression-based analysis of weather risk metrics and temperature variations.
 
 ### 💰 Finance & Business
-* **[Loan Data & Risk Analysis](./Loan-Regression-Analysis/)** Predicting financial risk and loan repayment status.  
+* **[Loan Data & Risk Analysis](./My-Data-Science-Portfolio/Loan-Regression-Analysis)** Predicting financial risk and loan repayment status.  
   * **Top Model:** XGBRegressor | **R² Score:** 0.9595 | **MAE:** 0.032
 
 * **[Electricity Price Forecasting](./My-Data-Science-Portfolio/Electricity-Forecasting)** Forecasting energy prices based on system load and wind production.  
