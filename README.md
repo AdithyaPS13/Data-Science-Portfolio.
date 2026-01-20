@@ -37,6 +37,6 @@ Welcome! This repository is a collection of my data science projects, showcasing
   * **Top Model:** Random Forest | **Accuracy:** 99.25%
 
 ### 🏏 Sports Analytics
-* **[IPL Match Analysis](./IPL-Analysis/)** Exploratory analysis of IPL 2022 matches, focusing on the impact of toss decisions and venues on winning outcomes.
+* **[IPL Match Analysis](./My-Data-Science-Portfolio/IPL-Analysis)** Exploratory analysis of IPL 2022 matches, focusing on the impact of toss decisions and venues on winning outcomes.
 
 ---
