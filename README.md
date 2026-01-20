@@ -30,7 +30,7 @@ Welcome! This repository is a collection of my data science projects, showcasing
 * **[Loan Data & Risk Analysis](./Loan-Regression-Analysis/)** Predicting financial risk and loan repayment status.  
   * **Top Model:** XGBRegressor | **R² Score:** 0.9595 | **MAE:** 0.032
 
-* **[Electricity Price Forecasting](./Electricity-Forecasting/)** Forecasting energy prices based on system load and wind production.  
+* **[Electricity Price Forecasting](./My-Data-Science-Portfolio/Electricity-Forecasting)** Forecasting energy prices based on system load and wind production.  
   * **Top Model:** Random Forest Regressor | **R² Score:** 0.9676
 
 * **[Netflix Content Analysis](./Netflix-Data-Analysis/)** Classifying Movies vs. TV Shows and analyzing global streaming trends.  
