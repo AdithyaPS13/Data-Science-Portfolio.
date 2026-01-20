@@ -33,7 +33,7 @@ Welcome! This repository is a collection of my data science projects, showcasing
 * **[Electricity Price Forecasting](./My-Data-Science-Portfolio/Electricity-Forecasting)** Forecasting energy prices based on system load and wind production.  
   * **Top Model:** Random Forest Regressor | **R² Score:** 0.9676
 
-* **[Netflix Content Analysis](./Netflix-Data-Analysis/)** Classifying Movies vs. TV Shows and analyzing global streaming trends.  
+* **[Netflix Content Analysis](./My-Data-Science-Portfolio/Netflix-Data-Analysis)** Classifying Movies vs. TV Shows and analyzing global streaming trends.  
   * **Top Model:** Random Forest | **Accuracy:** 99.25%
 
 ### 🏏 Sports Analytics
