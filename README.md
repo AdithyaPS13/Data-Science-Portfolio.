@@ -14,7 +14,7 @@ Welcome! This repository is a collection of my data science projects, showcasing
 ## 📁 Project Directory
 
 ### 🏥 Healthcare
-* **[Breast Cancer Survival Prediction](./Breast-Cancer-Prediction/)** Classifying patient survival status using clinical data.  
+* **[Breast Cancer Survival Prediction](./My-Data-Science-Portfolio/Breast-Cancer-Prediction)** Classifying patient survival status using clinical data.  
   * **Top Model:** Random Forest | **Accuracy:** 91.43% | **Precision:** 85.92%
 
 ### 🌦️ Environment & Natural Disasters
