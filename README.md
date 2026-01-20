@@ -18,7 +18,7 @@ Welcome! This repository is a collection of my data science projects, showcasing
   * **Top Model:** Random Forest | **Accuracy:** 91.43% | **Precision:** 85.92%
 
 ### 🌦️ Environment & Natural Disasters
-* **[Tsunami Trigger Prediction](./Tsunami-Forecasting/)** Predicting tsunami occurrences based on global seismic data (magnitude, depth, intensity).  
+* **[Tsunami Trigger Prediction](./My-Data-Science-Portfolio/Tsunami-Forecasting)** Predicting tsunami occurrences based on global seismic data (magnitude, depth, intensity).  
   * **Top Model:** XGBoost | **Accuracy:** 92.99% | **F1-Score:** 91.73%
 
 * **[Rainfall Prediction (Classifier)](./Weather-Modeling/)** Predicting if it will rain tomorrow in Australia.  
